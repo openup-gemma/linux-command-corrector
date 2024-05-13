@@ -25,7 +25,7 @@ GOOGLE_API_KEY=your-api-key
 
 ### 3. build
 ```
-pyinstaller -w -F --add-data "$(pwd)/.env:." command_corrctor.py
+pyinstaller -w -F --add-data "$(pwd)/.env:." command_corrector.py
 ```
 
 ### 4. setting
